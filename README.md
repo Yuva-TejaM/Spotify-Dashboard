@@ -29,7 +29,7 @@ This project focuses on analyzing Spotify data to uncover trends, patterns, and 
 2. Load the dataset into your SQL database.
 3. Execute the provided SQL scripts to clean and transform the data.
 4. Import the processed data into Power BI.
-5. Open the Power BI report file (`Spotify.pbix`) to explore the dashboard.
+5. Open the Power BI report file [Spotify](`Spotify.pbix`) to explore the dashboard.
 
 ## Data Sources
 - The dataset for this analysis includes  Spotify API, Kaggle dataset, or CSV files
